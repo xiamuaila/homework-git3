@@ -1,2 +1,1 @@
-hellobworld
-你好世界
+a
